@@ -1,0 +1,14 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "This is a very simple \"chatbot\" using nothing but JavaScript, HTML, & CSS. ",
+  "source": "index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
